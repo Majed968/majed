@@ -1,0 +1,10 @@
+{
+  "name": "تطبيق التسويق الاحترافي",
+  "short_name": "Marketing App",
+  "description": "معالج منتجات متقدم مع كشف أسعار ذكي وتحرير صور احترافي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary"
+}
